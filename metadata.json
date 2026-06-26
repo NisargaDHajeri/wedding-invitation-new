@@ -1,0 +1,6 @@
+{
+  "name": "Royal Indian Wedding Invitation",
+  "description": "A luxury, royal, and elegant Indian wedding invitation website for Vidyadhar & Aishwarya and Shivaprasad & Sonali, featuring an animated Lord Ganesha loader, instrumental music, interactive timeline, picture gallery, and Google Map details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
